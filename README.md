@@ -3,5 +3,5 @@
 Project for Frizzlebees
 
 Team Members:
-Sky Jacobson
+Sky Jacobson,
 Ryan Ngo
