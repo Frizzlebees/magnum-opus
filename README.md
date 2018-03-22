@@ -1,5 +1,7 @@
 # magnum-opus
 
-Project for SKY, INC.
+Project for Frizzlebees
 
-Team Members: Sky Jacobson
+Team Members:
+Sky Jacobson
+Ryan Ngo
